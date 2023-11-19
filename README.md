@@ -1,1 +1,1 @@
-Simple Example For Domain-Driven Design
+Simple example Domain Service for Domain-Driven Design
